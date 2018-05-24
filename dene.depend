@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526643271 source:/home/rabia/Desktop/sprite/dene/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<string>
+	<unistd.h>
+
